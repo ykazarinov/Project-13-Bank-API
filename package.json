@@ -23,7 +23,7 @@
     "start": "node ./server/server.js"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    
   }
 }
 
